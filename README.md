@@ -1,6 +1,7 @@
 # face-recognition-attendance-system | Python, OpenCV, Firebase
-# Face recognition attendance system, including primary data collection, model training, and real-time pre-launch testing.
-# Fine-tuned a VGG16 CNN model on a custom primary dataset, optimizing for accuracy and performance in real-world environmental conditions.
+
+Face recognition attendance system, including primary data collection, model training, and real-time pre-launch testing.
+Fine-tuned a VGG16 CNN model on a custom primary dataset, optimizing for accuracy and performance in real-world environmental conditions.
 
 This system includes 3 features.
 Student Registration, Face Recognition Attendance Taking and Daily Attendance Report.
